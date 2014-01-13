@@ -1,0 +1,5 @@
+name: todo-list-ui
+dependencies:
+  browser: any
+  firebase: 0.1.0
+  angular: any
